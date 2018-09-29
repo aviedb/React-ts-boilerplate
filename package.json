@@ -1,6 +1,21 @@
 {
   "name": "react-ts-boilerplate",
   "version": "0.1.0",
+  "description": "React with TypeScript Boilerplate using create-react-app and scripts-version react-scripts-ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviedb/react-ts-boilerplate.git"
+  },
+  "author": {
+    "name": "Muhammad Avied Bachmid",
+    "email": "aviedb@ngopi.men",
+    "url": "https://aviedb.ngopi.men"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviedb/react-ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/aviedb/react-ts-boilerplate#readme",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
